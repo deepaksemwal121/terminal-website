@@ -27,12 +27,12 @@ contact.addEventListener('click',()=>{
 
     const contactBox=  new WinBox({
         title:'Contact Me',
-        width:'400px',
+        width:'350px',
         height:'400px',
         top:'30',
         right:'50',
         bottom:'50',
-        left:'20',
+        left:'25',
         mount: contactContent,
         onfocus: function(){
             this.setBackground('#00aa00')
