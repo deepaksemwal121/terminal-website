@@ -32,7 +32,7 @@ contact.addEventListener('click',()=>{
         top:'30',
         right:'50',
         bottom:'50',
-        left:'25',
+        left:'21',
         mount: contactContent,
         onfocus: function(){
             this.setBackground('#00aa00')
